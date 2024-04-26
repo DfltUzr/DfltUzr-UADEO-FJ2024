@@ -1,3 +1,5 @@
 # DfltUzr-UADEO-FJ2024
 
-Juan Carlos Chang Cárdenas
+owner: Juan Carlos Chang Cárdenas
+
+colaborador: Juan Pedro Ruelas Vega
